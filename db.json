@@ -14,10 +14,12 @@
       },
       "animals": [
         {
-          "name":"Nala",
-          "type":"cat",
+          "id": 1,
+          "name": "Nala",
+          "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports":[]
         }
       ]
     },
@@ -34,10 +36,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     },
@@ -55,10 +59,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     },
@@ -75,10 +81,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     },
@@ -95,10 +103,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     },
@@ -115,10 +125,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     },
@@ -135,10 +147,12 @@
       },
       "animals": [
         {
+          "id": 1,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "reports": []
         }
       ]
     }

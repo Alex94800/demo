@@ -1,14 +1,146 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "customers": [
+    {
+      "id": 1,
+      "name": "Kianna Baptista",
+      "profilePicture": "https://randomuser.me/api/portraits/women/17.jpg",
+      "favorite": true,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name":"Nala",
+          "type":"cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Skylar Korsgaard",
+      "favorite": true,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ann Saris",
+      "profilePicture": "https://randomuser.me/api/portraits/women/19.jpg",
+      "favorite": true,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Alfredo Carder",
+      "favorite": false,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sarah Michel",
+      "favorite": false,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Isabella Lopez",
+      "favorite": false,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lydia William",
+      "favorite": false,
+      "phone": "0606060606",
+      "email": "email@address.com",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "animals": [
+        {
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        }
+      ]
+    }
+  ]
 }

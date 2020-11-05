@@ -2,8 +2,9 @@
   "customers": [
     {
       "id": 1,
-      "name": "Kianna Baptista",
-      "profilePicture": "https://randomuser.me/api/portraits/women/17.jpg",
+      "first_name": "Kianna",
+      "last_name": "Baptista",
+      "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
       "favorite": true,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -18,14 +19,15 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports":[]
         }
       ]
     },
     {
       "id": 2,
-      "name": "Skylar Korsgaard",
+      "first_name": "Skylar",
+      "last_name": "Korsgaard",
       "favorite": true,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -40,15 +42,16 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]
     },
     {
       "id": 3,
-      "name": "Ann Saris",
-      "profilePicture": "https://randomuser.me/api/portraits/women/19.jpg",
+      "first_name": "Ann",
+      "last_name": "Saris",
+      "profile_picture": "https://randomuser.me/api/portraits/women/19.jpg",
       "favorite": true,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -63,14 +66,15 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]
     },
     {
       "id": 4,
-      "name": "Alfredo Carder",
+      "first_name": "Alfredo",
+      "last_name": "Carder",
       "favorite": false,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -85,14 +89,15 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]
     },
     {
       "id": 5,
-      "name": "Sarah Michel",
+      "first_name": "Sarah",
+      "last_name": "Michel",
       "favorite": false,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -107,14 +112,15 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]
     },
     {
       "id": 6,
-      "name": "Isabella Lopez",
+      "first_name": "Isabella",
+      "last_name": "Lopez",
       "favorite": false,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -129,14 +135,15 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]
     },
     {
       "id": 7,
-      "name": "Lydia William",
+      "first_name": "Lydia",
+      "last_name": "William",
       "favorite": false,
       "phone": "0606060606",
       "email": "email@address.com",
@@ -151,7 +158,7 @@
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
-          "profilePicture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
           "reports": []
         }
       ]

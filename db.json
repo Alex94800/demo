@@ -43,7 +43,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id"":":3,
+              "url":"http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type":"video/mp4"
+            }
+          ]
         }
       ]
     },
@@ -67,7 +75,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id"": ": 3,
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type": "video/mp4"
+            }
+          ]
         }
       ]
     },
@@ -90,7 +106,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id": 3,
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type": "video/mp4"
+            }
+          ]
         }
       ]
     },
@@ -113,7 +137,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id": 3,
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type": "video/mp4"
+            }
+          ]
         }
       ]
     },
@@ -136,7 +168,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id": 3,
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type": "video/mp4"
+            }
+          ]
         }
       ]
     },
@@ -159,7 +199,15 @@
           "type": "cat",
           "birth_date": "2018-09",
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
-          "reports": []
+          "reports": [],
+          "documents": [
+            {
+              "id": 3,
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
+              "name": "Vidéo test",
+              "type": "video/mp4"
+            }
+          ]
         }
       ]
     }

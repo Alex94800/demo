@@ -26,6 +26,7 @@
               "id": 3,
               "url":"http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type":"video/mp4"
             }
           ]
@@ -57,6 +58,7 @@
               "id": 3,
               "url":"http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type":"video/mp4"
             }
           ]
@@ -89,12 +91,14 @@
               "id": 3,
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type": "video/mp4"
             },
             {
               "id":4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
+              "file_name":"photo.jpeg",
               "type": "image/jpeg"
             }
           ]
@@ -126,12 +130,14 @@
               "id": 3,
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type": "video/mp4"
             },
             {
               "id": 4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
+              "file_name": "photo.jpeg",
               "type": "image/jpeg"
             }
           ]
@@ -163,12 +169,14 @@
               "id": 3,
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type": "video/mp4"
             },
             {
               "id": 4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
+              "file_name": "photo.jpeg",
               "type": "image/jpeg"
             }
           ]
@@ -200,12 +208,14 @@
               "id": 3,
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type": "video/mp4"
             },
             {
               "id": 4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
+              "file_name": "photo.jpeg",
               "type": "image/jpeg"
             }
           ]
@@ -237,12 +247,14 @@
               "id": 3,
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
+              "file_name": "video.mp4",
               "type": "video/mp4"
             },
             {
               "id": 4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
+              "file_name": "photo.jpeg",
               "type": "image/jpeg"
             }
           ]

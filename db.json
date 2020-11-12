@@ -90,6 +90,12 @@
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "type": "video/mp4"
+            },
+            {
+              "id":4,
+              "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+              "name": "Photo",
+              "type": "image/jpeg"
             }
           ]
         }
@@ -121,6 +127,12 @@
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "type": "video/mp4"
+            },
+            {
+              "id": 4,
+              "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+              "name": "Photo",
+              "type": "image/jpeg"
             }
           ]
         }
@@ -152,6 +164,12 @@
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "type": "video/mp4"
+            },
+            {
+              "id": 4,
+              "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+              "name": "Photo",
+              "type": "image/jpeg"
             }
           ]
         }
@@ -183,6 +201,12 @@
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "type": "video/mp4"
+            },
+            {
+              "id": 4,
+              "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+              "name": "Photo",
+              "type": "image/jpeg"
             }
           ]
         }
@@ -214,6 +238,12 @@
               "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "type": "video/mp4"
+            },
+            {
+              "id": 4,
+              "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+              "name": "Photo",
+              "type": "image/jpeg"
             }
           ]
         }

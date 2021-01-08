@@ -317,5 +317,161 @@
         }
       ]
     }
-  ]
+  ],
+  "reports": {
+    "today": [
+      {
+        "animal": {
+          "id": 1,
+          "name": "Nala",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "gender": 2,
+          "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg"
+        },
+        "customer": {
+          "id": 4,
+          "first_name": "Alfredo",
+          "last_name": "Carder",
+          "favorite": false,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2021-12-01 10:35",
+          "reason":"Foulure"
+        }
+      },
+      {
+        "animal": {
+          "id": 1,
+          "name": "Popeye",
+          "type": "dog",
+          "birth_date": "2018-09",
+          "gender": 2
+        },
+        "customer": {
+          "id": 1,
+          "first_name": "Kianna",
+          "last_name": "Baptista",
+          "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
+          "favorite": true,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2021-12-01 13:00",
+          "reason": "Foulure"
+        }
+      }
+    ],
+    "to_come": [
+      {
+        "animal": {
+          "id": 1,
+          "name": "Neko",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "gender": 2
+        },
+        "customer": {
+          "id": 4,
+          "first_name": "Alfredo",
+          "last_name": "Carder",
+          "favorite": false,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2021-12-01 10:35",
+          "reason": "Foulure"
+        }
+      },
+      {
+        "animal": {
+          "id": 1,
+          "name": "Django",
+          "type": "dog",
+          "birth_date": "2018-09",
+          "gender": 2
+        },
+        "customer": {
+          "id": 1,
+          "first_name": "Kianna",
+          "last_name": "Baptista",
+          "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
+          "favorite": true,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2021-12-01 13:00",
+          "reason": "Foulure"
+        }
+      }
+    ],
+    "history": [
+      {
+        "animal": {
+          "id": 1,
+          "name": "Neko",
+          "type": "cat",
+          "birth_date": "2018-09",
+          "gender": 2
+        },
+        "customer": {
+          "id": 4,
+          "first_name": "Alfredo",
+          "last_name": "Carder",
+          "favorite": false,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2020-09-30 10:35",
+          "reason": "Foulure"
+        }
+      },
+      {
+        "animal": {
+          "id": 1,
+          "name": "Django",
+          "type": "dog",
+          "birth_date": "2018-09",
+          "gender": 2
+        },
+        "customer": {
+          "id": 1,
+          "first_name": "Kianna",
+          "last_name": "Baptista",
+          "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
+          "favorite": true,
+          "phone": "0606060606",
+          "email": "email@address.com",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
+          "date_time": "2020-11-11 17:00",
+          "reason": "Foulure"
+        }
+      }
+    ]
+  }
 }

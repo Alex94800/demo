@@ -25,10 +25,10 @@
           "documents": [
             {
               "id": 2,
-              "url":"http://techslides.com/demos/sample-videos/small.mp4",
+              "url": "http://techslides.com/demos/sample-videos/small.mp4",
               "name": "Vidéo test",
               "file_name": "video.mp4",
-              "type":"video/mp4"
+              "type": "video/mp4"
             }
           ]
         }
@@ -119,10 +119,10 @@
               "type": "application/pdf"
             },
             {
-              "id":4,
+              "id": 4,
               "url": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
               "name": "Photo",
-              "file_name":"photo.jpeg",
+              "file_name": "photo.jpeg",
               "type": "image/jpeg"
             }
           ]

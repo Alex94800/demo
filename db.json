@@ -318,7 +318,7 @@
       ]
     }
   ],
-  "reports": {
+  "appointments": {
     "today": [
       {
         "animal": {
@@ -340,10 +340,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2021-12-01 10:35",
-          "reason":"Foulure"
-        }
+          }
+        },
+        "date_time": "2021-12-01 10:35",
+        "reason": "Foulure"
       },
       {
         "animal": {
@@ -365,10 +365,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2021-12-01 13:00",
-          "reason": "Foulure"
-        }
+          }
+        },
+        "date_time": "2021-12-01 13:00",
+        "reason": "Foulure"
       }
     ],
     "to_come": [
@@ -391,10 +391,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2021-12-01 10:35",
-          "reason": "Foulure"
-        }
+          }
+        },
+        "date_time": "2021-12-01 10:35",
+        "reason": "Foulure"
       },
       {
         "animal": {
@@ -416,10 +416,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2021-12-01 13:00",
-          "reason": "Foulure"
-        }
+          }
+        },
+        "date_time": "2021-12-01 13:00",
+        "reason": "Foulure"
       }
     ],
     "history": [
@@ -442,10 +442,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2020-09-30 10:35",
-          "reason": "Foulure"
-        }
+          }
+        },
+        "date_time": "2020-09-30 10:35",
+        "reason": "Foulure"
       },
       {
         "animal": {
@@ -467,10 +467,10 @@
             "street": "1 Rue de Rivoli",
             "zip": "75004",
             "city": "Paris"
-          },
-          "date_time": "2020-11-11 17:00",
-          "reason": "Foulure"
-        }
+          }
+        },
+        "date_time": "2020-11-11 17:00",
+        "reason": "Foulure"
       }
     ]
   }

@@ -1,0 +1,10 @@
+{
+  "name": "KiwiJsonServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alexandreguedj <alexandreguedj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

@@ -341,7 +341,38 @@
           "city": "Paris"
         }
       },
-      "date_time": "2021-12-01 13:00",
+      "date_time": "2021-02-04 13:00",
+      "address": {
+        "street": "1 Rue de Rivoli",
+        "zip": "75004",
+        "city": "Paris"
+      },
+      "reason": "Foulure"
+    },
+    {
+      "animal": {
+        "id": 1,
+        "name": "Nala",
+        "type": "cat",
+        "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+        "birth_date": "2018-09",
+        "gender": 2
+      },
+      "customer": {
+        "id": 1,
+        "first_name": "Kianna",
+        "last_name": "Baptista",
+        "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
+        "favorite": true,
+        "phone": "0606060606",
+        "email": "email@address.com",
+        "address": {
+          "street": "1 Rue de Rivoli",
+          "zip": "75004",
+          "city": "Paris"
+        }
+      },
+      "date_time": "2021-03-14 13:00",
       "address": {
         "street": "1 Rue de Rivoli",
         "zip": "75004",

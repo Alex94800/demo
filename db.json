@@ -13,6 +13,7 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes":"",
       "animals": [
         {
           "id": 1,
@@ -21,6 +22,11 @@
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -46,14 +52,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 2,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -94,14 +106,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 3,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -141,14 +159,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 4,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -188,14 +212,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 5,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -235,14 +265,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 6,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -282,14 +318,20 @@
         "zip": "75004",
         "city": "Paris"
       },
+      "notes": "",
       "animals": [
         {
-          "id": 1,
+          "id": 7,
           "name": "Nala",
           "type": "cat",
           "birth_date": "2018-09",
           "gender": 2,
           "profile_picture": "https://alternativi.fr/uploads/articles//les-bienfaits-du-chat-sur-lhomme-e96.jpeg",
+          "address": {
+            "street": "1 Rue de Rivoli",
+            "zip": "75004",
+            "city": "Paris"
+          },
           "reports": [],
           "documents": [
             {
@@ -335,12 +377,7 @@
         "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
         "favorite": true,
         "phone": "0606060606",
-        "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
+        "email": "email@address.com"
       },
       "date_time": "2021-02-04 13:00",
       "address": {
@@ -368,11 +405,6 @@
         "favorite": true,
         "phone": "0606060606",
         "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
       },
       "date_time": "2021-03-14 13:00",
       "address": {
@@ -398,11 +430,6 @@
         "favorite": false,
         "phone": "0606060606",
         "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
       },
       "date_time": "2021-12-01 10:35",
       "address": {
@@ -428,12 +455,7 @@
         "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
         "favorite": true,
         "phone": "0606060606",
-        "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
+        "email": "email@address.com"
       },
       "date_time": "2021-12-01 13:00",
       "address": {
@@ -458,12 +480,7 @@
         "last_name": "Carder",
         "favorite": false,
         "phone": "0606060606",
-        "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
+        "email": "email@address.com"
       },
       "date_time": "2020-09-30 10:35",
       "address": {
@@ -489,12 +506,7 @@
         "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
         "favorite": true,
         "phone": "0606060606",
-        "email": "email@address.com",
-        "address": {
-          "street": "1 Rue de Rivoli",
-          "zip": "75004",
-          "city": "Paris"
-        }
+        "email": "email@address.com"
       },
       "date_time": "2020-11-11 17:00",
       "address": {
